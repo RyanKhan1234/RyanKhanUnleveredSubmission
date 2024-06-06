@@ -1,0 +1,15 @@
+.App {
+  height: 100%;
+  width: 100%;
+}
+
+@font-face {
+  font-family: montserrat;
+  font-weight: 500;
+  src: url(/public/Montserrat-VariableFont_wght.ttf);
+}
+
+.montserrat {
+  font-family: montserrat;
+  font-weight: 800;
+}
